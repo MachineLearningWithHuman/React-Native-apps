@@ -1,0 +1,50 @@
+Alexandrite
+Amber
+Amethyst
+Bloodstone
+Cats Eye
+Coral
+Danburite
+Diamond
+Diaspore
+Emerald
+Fluorite
+Hessonite
+Hiddenite
+Iolite
+Jade
+Jasper
+Kyanite
+Lapis Lazuli
+Larimar
+Malachite
+Moonstone
+Morganite
+Opal
+Pearl
+Peridot
+Prehnite
+Pyrope
+Quartz Rose
+Quartz Rutilated
+Quartz Smoky
+Rhodolite
+Ruby
+Sapphire Blue
+Sapphire Purple
+Sapphire Yellow
+Serpentine
+Sodalite
+Spessartite
+Sphene
+Spinel
+Spodumene
+Sunstone
+Tanzanite
+Tigers Eye
+Topaz
+Tourmaline
+Turquoise
+Variscite
+Zircon
+Zoisite

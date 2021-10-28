@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "773203289507",
+    "project_id": "my-react-native-fdd4d",
+    "storage_bucket": "my-react-native-fdd4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773203289507:android:bef212d1f1393bb937e616",
+        "android_client_info": {
+          "package_name": "com.satyajit.moviesearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773203289507-anld4iek0vpp19k88pv5bua9oc42fm90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.satyajit.moviesearch",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "773203289507-reh73aqjcamhj600vrva2auea0iksfdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1SSOBWNaXukgLn7z0LbHFfDQrXxUKUwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "773203289507-reh73aqjcamhj600vrva2auea0iksfdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
